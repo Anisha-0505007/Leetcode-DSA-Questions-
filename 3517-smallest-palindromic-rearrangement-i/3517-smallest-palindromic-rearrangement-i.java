@@ -1,49 +1,39 @@
 class Solution {
-
-    public String reverse(String s) {
-        return new StringBuilder(s).reverse().toString();
-    }
-
     public String smallestPalindrome(String s) {
-
-        if (s.length() == 0 || s.length() == 1) {
-            return s;
-        }
-
-        String news = "";
-        int n = s.length();
-
-        char[] chars = s.toCharArray();
 
         int[] freq = new int[26];
 
-        // Count frequencies
-        for (char c : chars) {
+        // Count frequency of each character
+        for (char c : s.toCharArray()) {
             freq[c - 'a']++;
         }
 
-        String firstHalf = "";
-        String middle = "";
+        StringBuilder left = new StringBuilder();
+        StringBuilder ans = new StringBuilder();
+        char middle = '\0';
 
-        // Build first half
+        // Build left half and find middle character
         for (int i = 0; i < 26; i++) {
 
-            while (freq[i] >= 2) {
-                firstHalf += (char) ('a' + i);
-                freq[i] -= 2;
+            // Add freq/2 copies to the left half
+            for (int j = 0; j < freq[i] / 2; j++) {
+                left.append((char) ('a' + i));
             }
 
-            if (freq[i] == 1) {
-                middle = String.valueOf((char) ('a' + i));
+            // Odd frequency character goes to the middle
+            if (freq[i] % 2 == 1) {
+                middle = (char) ('a' + i);
             }
         }
 
-        if (n % 2 == 0) {
-            news = firstHalf + reverse(firstHalf);
-        } else {
-            news = firstHalf + middle + reverse(firstHalf);
+        ans.append(left);
+
+        if (middle != '\0') {
+            ans.append(middle);
         }
 
-        return news;
+        ans.append(new StringBuilder(left).reverse());
+
+        return ans.toString();
     }
 }
