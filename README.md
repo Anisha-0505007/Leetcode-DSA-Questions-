@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0896-monotonic-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0896-monotonic-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
 |  |
