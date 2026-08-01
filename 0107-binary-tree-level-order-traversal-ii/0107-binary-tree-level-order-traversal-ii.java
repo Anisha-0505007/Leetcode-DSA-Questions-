@@ -1,50 +1,35 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
-        List<List<Integer>> ans = new LinkedList<List<Integer>>();
-        Queue<TreeNode> q = new LinkedList<TreeNode>();
 
-        if (root == null){
+        LinkedList<List<Integer>> ans = new LinkedList<>();
+
+        if(root == null)
             return ans;
+
+        Queue<TreeNode> queue = new LinkedList<>();
+        queue.offer(root);
+
+        while(!queue.isEmpty()){
+
+            int size = queue.size();
+            List<Integer> level = new ArrayList<>();
+
+            for(int i = 0; i < size; i++){
+
+                TreeNode current = queue.poll();
+
+                level.add(current.val);
+
+                if(current.left != null)
+                    queue.offer(current.left);
+
+                if(current.right != null)
+                    queue.offer(current.right);
+            }
+
+            ans.addFirst(level);   // Insert at the beginning
         }
 
-        q.offer(root);
-        while(!q.isEmpty()){
-            int LevelNum = q.size();
-            ArrayList<Integer> subl = new ArrayList<>();
-
-            for(int i=0;i<LevelNum;i++){
-                if(q.peek().left!=null){
-                    q.offer(q.peek().left);
-                }
-                if(q.peek().right!=null){
-                    q.offer(q.peek().right);
-                }
-                subl.add(q.poll().val);
-                
-            }
-            ans.add(subl);
-            
-            
-        }
-        List<List<Integer>> ansnew = new LinkedList<List<Integer>>();
-            for(int i= ans.size()-1; i>=0;i--){
-                ansnew.add(ans.get(i));
-            }
-        return ansnew;
+        return ans;
     }
 }
