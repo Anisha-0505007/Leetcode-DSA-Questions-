@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0002-add-two-numbers) |
+| [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0896-monotonic-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0145-binary-tree-postorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
