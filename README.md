@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0005-longest-palindromic-substring) |
 | [0234-palindrome-linked-list](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0013-roman-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
 ## Game Theory
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0035-search-insert-position) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
