@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0013-roman-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
