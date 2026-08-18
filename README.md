@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0234-palindrome-linked-list) |
 ## Math
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
