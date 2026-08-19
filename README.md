@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0239-sliding-window-maximum) |
+| [0704-binary-search](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0896-monotonic-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0704-binary-search) |
 ## Manacher
 |  |
 | ------- |
