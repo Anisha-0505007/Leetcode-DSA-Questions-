@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0069-sqrtx) |
 | [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2761-prime-pairs-with-target-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0704-binary-search) |
 ## Manacher
 |  |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2761-prime-pairs-with-target-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2761-prime-pairs-with-target-sum) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
