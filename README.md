@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2761-prime-pairs-with-target-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
 ## Game Theory
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
