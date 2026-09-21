@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2761-prime-pairs-with-target-sum) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0258-add-digits) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2761-prime-pairs-with-target-sum) |
 ## Newton's Method
 |  |
@@ -270,5 +272,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
