@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0058-length-of-last-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -274,4 +276,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
