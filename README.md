@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3524-find-x-value-of-array-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3524-find-x-value-of-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
