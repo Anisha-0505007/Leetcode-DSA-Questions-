@@ -14,30 +14,28 @@
  * }
  */
 class Solution {
+    private int count = 0;
+    private int result = 0;
+
     public int kthSmallest(TreeNode root, int k) {
-        Stack<TreeNode> stack = new Stack<>();
-        TreeNode curr = root;
+        traverse(root, k);
+        return result;
+    }
 
-        while (curr != null || !stack.isEmpty()) {
-            // Reach the leftmost node of the current node
-            while (curr != null) {
-                stack.push(curr);
-                curr = curr.left;
-            }
+    private void traverse(TreeNode node, int k) {
+        if (node == null) return;
 
-            // Pop the current node from the stack
-            curr = stack.pop();
-            
-            // Decrement k; when k becomes 0, we found our element
-            k--;
-            if (k == 0) {
-                return curr.val;
-            }
+        // Traverse left subtree
+        traverse(node.left, k);
 
-            // Move to the right subtree
-            curr = curr.right;
+        // Process current node
+        count++;
+        if (count == k) {
+            result = node.val;
+            return;
         }
 
-        return -1;
+        // Traverse right subtree
+        traverse(node.right, k);
     }
 }
