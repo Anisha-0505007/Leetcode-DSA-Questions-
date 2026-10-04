@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0168-excel-sheet-column-title) |
+| [0678-valid-parenthesis-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0678-valid-parenthesis-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3524-find-x-value-of-array-i) |
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
