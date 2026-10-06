@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0125-valid-palindrome) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0125-valid-palindrome) |
@@ -318,4 +320,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
