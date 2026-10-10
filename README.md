@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2761-prime-pairs-with-target-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0011-container-with-most-water) |
 | [0678-valid-parenthesis-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0704-binary-search) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Manacher
 |  |
 | ------- |
