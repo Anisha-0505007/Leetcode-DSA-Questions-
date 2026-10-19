@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2761-prime-pairs-with-target-sum) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0704-binary-search) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Manacher
 |  |
