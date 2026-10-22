@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0128-longest-consecutive-sequence) |
+| [0162-find-peak-element](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0162-find-peak-element) |
 | [0239-sliding-window-maximum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0704-binary-search) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
