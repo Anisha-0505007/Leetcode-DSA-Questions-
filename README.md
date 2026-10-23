@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
@@ -370,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
