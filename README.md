@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0168-excel-sheet-column-title) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Prefix Sum
 |  |
