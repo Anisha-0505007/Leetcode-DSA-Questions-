@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0258-add-digits) |
+| [0829-consecutive-numbers-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0829-consecutive-numbers-sum) |
 | [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2761-prime-pairs-with-target-sum) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0829-consecutive-numbers-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0829-consecutive-numbers-sum) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2761-prime-pairs-with-target-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3483-unique-3-digit-even-numbers) |
