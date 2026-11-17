@@ -14,57 +14,28 @@
  * }
  */
 class Solution {
-    public TreeNode deleteNode(TreeNode root, int key) {
-        if (root == null){
-            return null;
+    public TreeNode deleteNode(TreeNode A, int B) {
+         if (A == null){
+            return A;
         }
-        if (root.val == key){
-            return helper(root);
-        }
-        TreeNode dummy = root;
-        while(root != null){
-            if (root.val>key){
-                if (root.left != null && root.left.val == key){
-                   root.left = helper(root.left);
-                   break;
-                }
-                else{
-                    root = root.left;
-                }
+        if(B < A.val) {A.left = deleteNode(A.left,B);}
+        else if(B > A.val) {A.right = deleteNode(A.right,B);}
+        else{
+            if(A.right == null && A.left == null){
+                return null;
+            }
+            else if(A.left == null || A.right == null){
+                return (A.left != null ? A.left : A.right);
             }
             else{
-                 if (root.right != null && root.right.val == key){
-                   root.right = helper(root.right);
-                   break;
+                TreeNode temp = A.left;
+                while(temp.right != null){
+                    temp = temp.right;
                 }
-                else{
-                    root = root.right;
-                }
+                A.val = temp.val;
+                A.left = deleteNode(A.left, temp.val);
             }
-            
         }
-        return dummy;
+        return A;
     }
-
-    public TreeNode helper(TreeNode root){
-        if (root.left == null){
-            return root.right;
-        }
-        if (root.right == null){
-            return root.left;
-        }
-        else{
-            TreeNode rightchild = root.right;
-            TreeNode lastright = Lastright(root.left);
-            lastright.right = rightchild;
-        }
-        return root.left;
-    }
-    public TreeNode Lastright(TreeNode root){
-        if (root.right == null){
-            return root;
-        }
-        return Lastright(root.right);
-    }
-
 }
