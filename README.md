@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0258-add-digits) |
 | [0829-consecutive-numbers-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0829-consecutive-numbers-sum) |
 | [0877-stone-game](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0877-stone-game) |
+| [0878-nth-magical-number](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0878-nth-magical-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2761-prime-pairs-with-target-sum](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2761-prime-pairs-with-target-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0704-binary-search) |
+| [0878-nth-magical-number](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0878-nth-magical-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Manacher
@@ -392,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Least Common Multiple
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0878-nth-magical-number) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [0878-nth-magical-number](https://github.com/Anisha-0505007/Leetcode-DSA-Questions-/tree/master/0878-nth-magical-number) |
 <!---LeetCode Topics End-->
